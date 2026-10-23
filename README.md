@@ -52,7 +52,7 @@ I'm a data scientist who turns messy data into decisions and models into product
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnkurSingh10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnkurSingh10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> -->
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurSingh10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com?user=AnkurSingh10&theme=tokyonight&hide_border=true" />
