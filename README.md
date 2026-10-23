@@ -8,7 +8,6 @@
 <a href="https://leetcode.com/u/SinghAnkur01/"><img src="https://img.shields.io/badge/LeetCode-SinghAnkur01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:ankurrssingh110@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/AnkurSingh10"><img src="https://img.shields.io/badge/GitHub-AnkurSingh10-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1CZNHzk9hS8J09sGk6vvRPRRZsWRFPFTN/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=AnkurSingh10&label=Profile+Views&color=2f81f7&style=flat" />
 
